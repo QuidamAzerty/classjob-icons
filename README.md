@@ -17,7 +17,7 @@ Included are:
   - `svg`, `woff`, `otf` https://convertio.co/ttf-svg/
   - `eot` https://everythingfonts.com/ttf-to-eot
 
-- Copy the the converted files into `src`
+- Copy the converted files into `src`
 - Run: `converter.php` to build the font-file CSS/HTML
 - Run: `svg_rip.js` to build SVG Rips.
-  - This requires node, run `npm install` inside `/src` to get the module we use (`font-blast`)
+  - This requires node, run `npm install -i font-blast` inside `/src` to get the module we use for `svg_rip.js`
