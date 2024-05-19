@@ -128,11 +128,13 @@
 .xiv-FormEdit:before{content:'\e510';}
 .xiv-CopyPaste:before{content:'\e520';}
 .xiv-ItemBuyBack:before{content:'\e601';}
+.xiv-app_item_merge_duplicates:before{content:'\e602';}
 .xiv-Market:before{content:'\e700';}
 .xiv-MarketLimit:before{content:'\e702';}
 .xiv-MarketPurchase:before{content:'\e703';}
 .xiv-app_market_exhibit:before{content:'\e704';}
 .xiv-app_market_notification_alert:before{content:'\e705';}
+.xiv-app_market_filter_acquired:before{content:'\e706';}
 .xiv-PaymentCoin:before{content:'\e800';}
 .xiv-app_market_purchase:before{content:'\e801';}
 .xiv-app_payment_symbol:before{content:'\e802';}
@@ -158,6 +160,7 @@
 .xiv-SquareBoxCheck:before{content:'\e912';}
 .xiv-SquareBoxCross:before{content:'\e913';}
 .xiv-TriangleBoxAlert:before{content:'\e919';}
+.xiv-app_symbol_alert_triangle_outline:before{content:'\e920';}
 .xiv-SquareFrameCheck:before{content:'\e922';}
 .xiv-SymbolInformation:before{content:'\e930';}
 .xiv-app_symbol_info_circle:before{content:'\e931';}
@@ -166,6 +169,9 @@
 .xiv-SymbolMoogle:before{content:'\e952';}
 .xiv-SymbolAlarmClock:before{content:'\e953';}
 .xiv-app_symbol_dc:before{content:'\e956';}
+.xiv-app_symbol_sound_play:before{content:'\e960';}
+.xiv-app_symbol_sound_stop:before{content:'\e961';}
+.xiv-app_symbol_hourglass:before{content:'\e962';}
 .xiv-class_job_001:before{content:'\f001';}
 .xiv-class_job_002:before{content:'\f002';}
 .xiv-class_job_003:before{content:'\f003';}
